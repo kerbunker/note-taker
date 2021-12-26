@@ -10,7 +10,9 @@ To install the app you can download the files from my github and run npm install
 
 ## Usage
 
-If you have the app installed, you can run 'npm start' to start the server and then access the app by going to http://localhost:3001/. If you would instead like to access the deployed site, go to ...
+If you have the app installed, you can run 'npm start' to start the server and then access the app by going to http://localhost:3001/. If you would instead like to access the deployed site, go to https://boiling-waters-12460.herokuapp.com/
 
-If you want a video demo on how to use the app simply follow this link ...
+![Page with 2 already written notes](./images/page-screenshot-1.PNG)
+
+![Note in progress showing save button](./images/page-screenshot-2.PNG)
 
